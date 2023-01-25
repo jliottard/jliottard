@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ... Computer Vision (especially opencv)
+- 🌱 I’m currently learning Rust.
+- 📫 How to reach me: [linkedin/in/julienliottard](https://www.linkedin.com/in/julienliottard/)
 <!--
 **jliottard/jliottard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
