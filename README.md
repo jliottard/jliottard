@@ -1,8 +1,15 @@
-### Hi there 👋
-- 🌱 I’m currently learning Artificial Intelligence.
-- 📫 How to reach me: [linkedin/in/julienliottard](https://www.linkedin.com/in/julienliottard/)
+## Hi there 👋
+✨ Hello I am Julien Liottard. I graduated from [Grenoble INP - Ensimag](https://ensimag.grenoble-inp.fr/en) in 2023. I am currently working at [Alstom](https://www.alstom.com/). ✨
 
-[![GitHub Trends SVG](https://api.githubtrends.io/jliottard/svg/avgupta456/langs)](https://githubtrends.io)
+## 📫 How to reach me
+My LinkedIin : [linkedin/in/julienliottard](https://www.linkedin.com/in/julienliottard/)
+
+## 🔭 My project
+- Music list player ([github.com/jliottard/music-list-player](https://github.com/jliottard/music-list-player)), an open-source CLI tool to download and play music from a text file based music playlist.
+
+## My GitHub Trends summary
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/jliottard/langs?time_range=three_months)](https://www.githubwrapped.io/jliottard)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/jliottard/repos?time_range=all_time)](https://www.githubwrapped.io/jliottard)
 <!--
 **jliottard/jliottard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
