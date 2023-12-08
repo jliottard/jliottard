@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Artificial Intelligence.
 - 📫 How to reach me: [linkedin/in/julienliottard](https://www.linkedin.com/in/julienliottard/)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/jliottard/svg/avgupta456/langs)](https://githubtrends.io)
 <!--
 **jliottard/jliottard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
