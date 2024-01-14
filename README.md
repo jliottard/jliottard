@@ -9,5 +9,5 @@ My LinkedIn : [linkedin/in/julienliottard](https://www.linkedin.com/in/julienlio
 - Torrust ([github.com/BitTorrust/torrust](https://github.com/BitTorrust/torrust)), a simple BitTorrent client implemented in Rust as a school project.
 
 ## My GitHub Trends summaries
-![GitHub Trends Repository](https://api.githubtrends.io/user/svg/jliottard/repos?time_range=three_months&include_private=false&group=other&use_percent=true&loc_metric=added&theme=bright_lights)
-![GitHub Trends Repository](https://api.githubtrends.io/user/svg/jliottard/langs?time_range=three_months&include_private=false&compact=false&use_percent=true&loc_metric=added&theme=bright_lights)
+![GitHub Trends Repository](https://api.githubtrends.io/user/svg/jliottard/repos?time_range=six_months&include_private=false&group=other&use_percent=true&loc_metric=added&theme=bright_lights)
+![GitHub Trends Repository](https://api.githubtrends.io/user/svg/jliottard/langs?time_range=six_months&include_private=false&compact=false&use_percent=true&loc_metric=added&theme=bright_lights)
