@@ -8,6 +8,5 @@ My LinkedIn : [linkedin/in/julien-liottard](https://www.linkedin.com/in/julien-l
 - Music list player ([github.com/jliottard/music-list-player](https://github.com/jliottard/music-list-player)), an open-source CLI tool to download and play music from a text file based music playlist.
 - Torrust ([github.com/BitTorrust/torrust](https://github.com/BitTorrust/torrust)), a simple BitTorrent client implemented in Rust as a school project.
 
-## My GitHub Trends summaries
-![GitHub Trends Repository](https://api.githubtrends.io/user/svg/jliottard/repos?time_range=six_months&include_private=false&group=other&use_percent=true&loc_metric=added&theme=bright_lights)
+## 💻 My favorite langages
 ![GitHub Trends Repository](https://api.githubtrends.io/user/svg/jliottard/langs?time_range=six_months&include_private=false&compact=false&use_percent=true&loc_metric=added&theme=bright_lights)
