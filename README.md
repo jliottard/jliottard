@@ -7,5 +7,5 @@
 My LinkedIn : [linkedin/in/julien-liottard](https://www.linkedin.com/in/julien-liottard/)
 
 ## 🔭 My projects
-- 🎵 Music list player ([github.com/jliottard/music-list-player](https://github.com/jliottard/music-list-player)), an open-source CLI tool to download and play music from a text file based music playlist. 🎵
-- 📩 Torrust ([github.com/BitTorrust/torrust](https://github.com/BitTorrust/torrust)), a simple BitTorrent client implemented in Rust as a school project. 📩
+- 🎵 Music list player ([github.com/jliottard/music-list-player](https://github.com/jliottard/music-list-player)), an open-source CLI music player based on plain text playlists (side project). 🎵
+- 📩 Torrust ([github.com/BitTorrust/torrust](https://github.com/BitTorrust/torrust)), a BitTorrent client CLI application implemented in Rust (school project). 📩
