@@ -1,7 +1,9 @@
 ## 👋 Hi there
 ✨ Hello, I am Julien Liottard. ✨
 
-🚅 I graduated from [Grenoble INP - Ensimag](https://ensimag.grenoble-inp.fr/en) in 2023. I am currently working at [Alstom](https://www.alstom.com/). 🚅
+I graduated from [Grenoble INP - Ensimag](https://ensimag.grenoble-inp.fr/en) in 2023 👨‍🎓. I worked at [Alstom](https://www.alstom.com/) in 2024 🚆.
+
+I am currently looking for a software engineer position 🔍.
 
 ## 📫 How to reach me
 My LinkedIn : [linkedin/in/julien-liottard](https://www.linkedin.com/in/julien-liottard/)
