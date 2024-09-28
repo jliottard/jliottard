@@ -6,7 +6,7 @@ I graduated from [Grenoble INP - Ensimag](https://ensimag.grenoble-inp.fr/en) in
 I am currently working at [Guinault](https://www.guinault.com/en/) ✈️. 
 
 ## 📫 How to reach me
-My LinkedIn : [linkedin/in/julien-liottard](https://www.linkedin.com/in/julien-liottard/)  
+My LinkedIn : [linkedin.com/in/julien-liottard](https://www.linkedin.com/in/julien-liottard/)  
 
 ## 🔭 My projects
 - 🎵  **[Music list player](https://github.com/jliottard/music-list-player)**: an interactive CLI music player based on plain text playlists (side project). 🎵  
