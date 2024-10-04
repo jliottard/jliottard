@@ -11,3 +11,4 @@ My LinkedIn : [linkedin.com/in/julien-liottard](https://www.linkedin.com/in/juli
 ## 🔭 My projects
 - 🎵  **[Music list player](https://github.com/jliottard/music-list-player)**: an interactive CLI music player based on plain text playlists (side project). 🎵  
 - 📩  **[Torrust](https://github.com/BitTorrust/torrust)**: a BitTorrent client CLI application implemented in [Rust](https://www.rust-lang.org) (school project). 📩  
+- 🎮 **[Necrodancer bot](https://github.com/jliottard/necrodancer-bot)**: an automated player of [Crypt of the NecroDancer](https://braceyourselfgames.com/crypt-of-the-necrodancer/) (side project). 🎮
