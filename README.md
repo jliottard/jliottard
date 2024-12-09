@@ -3,7 +3,7 @@
 
 I graduated from [Grenoble INP - Ensimag](https://ensimag.grenoble-inp.fr/en) in 2023 👨‍🎓. I worked at [Alstom](https://www.alstom.com/) in 2024 🚆. 
 
-I am currently working at [Guinault](https://www.guinault.com/en/) ✈️. 
+I am currently working at [Guinault](https://www.guinault.com/en/) 🔌✈️. 
 
 ## 📫 How to reach me
 My LinkedIn : [linkedin.com/in/julien-liottard](https://www.linkedin.com/in/julien-liottard/)  
