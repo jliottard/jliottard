@@ -3,7 +3,7 @@
 
 - I am currently an embedded system engineer at [Guinault](https://www.guinault.com/en/). ✈️
 - I praticed critical embedded system software testing as an engineer at [Alstom](https://www.alstom.com/) in 2024. 🚆
-- I learnt to be a software engineer at [Grenoble INP - Ensimag](https://ensimag.grenoble-inp.fr/en) until 2023. 👨‍🎓
+- I learnt software engineering at [Grenoble INP - Ensimag](https://ensimag.grenoble-inp.fr/en) until 2023. 👨‍🎓
 
 ## 📫 How to reach me
 My LinkedIn is [www.linkedin.com/in/julien-liottard](https://www.linkedin.com/in/julien-liottard).
