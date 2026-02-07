@@ -1,4 +1,5 @@
-# Julien Liottard (that's me)
+# Welcome to my github
+
 👋 Hello. I love embedded systems and concret applications of software. That's why:
 
 - I am currently an embedded system engineer at [Guinault](https://www.guinault.com/en/). ✈️
